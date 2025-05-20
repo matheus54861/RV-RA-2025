@@ -1,0 +1,3 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.ptc.vuforia.engine@c810e0997bdc/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib filter=lfs diff=lfs merge=lfs -text
+Packages/com.ptc.vuforia.engine-11.2.4.tgz filter=lfs diff=lfs merge=lfs -text
