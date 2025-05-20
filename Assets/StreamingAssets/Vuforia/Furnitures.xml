@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Cadeira" size="1.000000 0.707483" />
+    <ImageTarget name="Luminaria" size="1.000000 0.706282" />
+    <ImageTarget name="Mesa" size="1.000000 0.706282" />
+  </Tracking>
+</QCARConfig>
